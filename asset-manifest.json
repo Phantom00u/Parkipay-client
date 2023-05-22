@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Parkipay-client/static/css/main.dda8c520.css",
-    "main.js": "/Parkipay-client/static/js/main.efb4a1db.js",
+    "main.js": "/Parkipay-client/static/js/main.55f60837.js",
     "static/js/787.c292e945.chunk.js": "/Parkipay-client/static/js/787.c292e945.chunk.js",
     "static/media/estacionamiento.png": "/Parkipay-client/static/media/estacionamiento.2e44af9f2b3501f56ddb.png",
     "static/media/logoparkipay.png": "/Parkipay-client/static/media/logoparkipay.a0a454454d88b3de089e.png",
     "static/media/image.jpg": "/Parkipay-client/static/media/image.dcd78f7f610d92439256.jpg",
     "index.html": "/Parkipay-client/index.html",
     "main.dda8c520.css.map": "/Parkipay-client/static/css/main.dda8c520.css.map",
-    "main.efb4a1db.js.map": "/Parkipay-client/static/js/main.efb4a1db.js.map",
+    "main.55f60837.js.map": "/Parkipay-client/static/js/main.55f60837.js.map",
     "787.c292e945.chunk.js.map": "/Parkipay-client/static/js/787.c292e945.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dda8c520.css",
-    "static/js/main.efb4a1db.js"
+    "static/js/main.55f60837.js"
   ]
 }
